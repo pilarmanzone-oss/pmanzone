@@ -5,4 +5,5 @@ Aprendiz de desarrolladora con interés en todo lo relacionado con Web3 y contra
 - Desarrollo de DApps en Ethereum
 - Contratos inteligentes en Solidity
 - Infraestructura descentralizada y DAOs  
-🥅 Meta en Web3: Convertirme en un contribuidor activo en proyectos DeFi y/o DApp.  
+🥅 Meta en Web3: Convertirme en un contribuidor activo en proyectos DeFi y/o DApp.
+🗒⛓️😁
